@@ -36,7 +36,7 @@ of where software engineering should focus its attention next—an understanding
 on what we wish were true or what we want to feel, but on what's actually true; what we
 actually feel.
 
-(Why  last twelve years, specifically? I dunno, 2007 seems like a turning point of sorts.
+(Why the last twelve years, specifically? I dunno, 2007 seems like a turning point of sorts.
 Facebook, the iPhone, jQuery... all of this stuff was taking off. And it was a memorable year
 for me personally.)
 
